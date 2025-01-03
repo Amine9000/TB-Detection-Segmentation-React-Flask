@@ -4,6 +4,6 @@ Tuberculosis Detection and Lung Segmentation A web application leveraging U-Net 
 
 ## Screenshots
 
-![App Screenshot](public/app_screenshots/1.png "Screenshot of the application")
-![App Screenshot](public/app_screenshots/2.png "Screenshot of the application")
-![App Screenshot](public/app_screenshots/3.png "Screenshot of the application")
+![App Screenshot](app_screenshots/1.png "Screenshot of the application")
+![App Screenshot](app_screenshots/2.png "Screenshot of the application")
+![App Screenshot](app_screenshots/3.png "Screenshot of the application")
